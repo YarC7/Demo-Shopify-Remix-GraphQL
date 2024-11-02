@@ -3,7 +3,7 @@
 client_id = "e344725613ed202fe072a2bc75b6411d"
 name = "demo-app"
 handle = "demo-app-1299"
-application_url = "https://everywhere-career-textile-professor.trycloudflare.com"
+application_url = "https://lee-pills-referenced-plants.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -12,9 +12,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://everywhere-career-textile-professor.trycloudflare.com/auth/callback",
-  "https://everywhere-career-textile-professor.trycloudflare.com/auth/shopify/callback",
-  "https://everywhere-career-textile-professor.trycloudflare.com/api/auth/callback"
+  "https://lee-pills-referenced-plants.trycloudflare.com/auth/callback",
+  "https://lee-pills-referenced-plants.trycloudflare.com/auth/shopify/callback",
+  "https://lee-pills-referenced-plants.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
